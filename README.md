@@ -3,10 +3,7 @@
 <div align="center">
   <br />
   <img src="images/gf.PNG" width="200" height="100"><br>
-   <p align="center">
-    A game logic example for Zork
-    <br />
-    </p>
+   
   <img src="images/mian_Screen.PNG" width="600" height="400"><br>
  
 </div>
